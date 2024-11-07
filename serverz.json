@@ -10,6 +10,7 @@ vless://4be36df8-2b32-46c1-b581-489746021269@8.8.8.8.vipinet.ggff.net:2095?secur
 
 vless://3e420048-9c2a-4b48-adee-42f4837d8449@8.8.8.8.vipinet.ggff.net:200?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1+%D9%87%D9%84%D9%86%D8%AF+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%F0%9F%87%B3%F0%9F%87%B1
 
+vless://security@security.app.mmm:443?security=none&encryption=none&headerType=none&type=tcp#%E2%80%8C
 
 
 
