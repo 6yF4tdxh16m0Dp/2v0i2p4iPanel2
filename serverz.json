@@ -1,6 +1,4 @@
-vless://update@VipiNet.Plus.v2:14030822?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7+%D8%AF%D8%B1+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%DB%B1%DB%B4%DB%B0%DB%B3%2F%DB%B8%2F%DB%B2%DB%B2+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%B4%D8%AF+%E2%9C%85%EF%B8%8F
-
-wireguard://wBJzUD3Tjim4er7WmjMtR84%2FHvKEyiGbpY%2BpIiUGWlU%3D@ZapasW.vipinet.ggff.net:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8179%3Ae46d%3A8699%3Adfb1%3A9232%2F128&reserved=190%2C236%2C159&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%94%B0+%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3+%7C+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84+%D8%B4%D8%AF%DB%8C%D8%AF+%DA%A9%D8%B4%D9%88%D8%B1+%E2%9A%A0%EF%B8%8F
+vless://update@VipiNet.Plus.v2:14030825?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7+%D8%AF%D8%B1+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%DB%B1%DB%B4%DB%B0%DB%B3%2F%DB%B8%2F%DB%B2%DB%B5+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%B4%D8%AF+%E2%9C%85%EF%B8%8F
 
 vless://dab23f6d-64b2-4a5a-aad5-74aca8198fe8@[2a0b:4140:4acc::2]:8080?security=none&encryption=none&host=Speedtest.org&headerType=http&type=tcp#%E2%9C%85%EF%B8%8F%F0%9F%90%B9+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%7C+%F0%9F%87%A9%F0%9F%87%AA+ipv6
 
@@ -8,7 +6,7 @@ vless://7dd7308e-b2d5-46cb-9285-043642ad6b3a@[2a0b:4140:4acc::2]:9090?security=n
 
 vless://5fe9aee5-2d1c-4d79-8e08-5010444f1713@hi.vipinet.ggff.net:51279?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF+%7C+%D8%AA%D8%B3%D8%AA+%F0%9F%87%AB%F0%9F%87%AE
 
-vless://4f6157dd-171d-4df5-9b4d-586a7e548efe@8.8.8.8.vipinet.ggff.net:202?security=none&encryption=none&headerType=none&type=tcp#%E2%AD%90%EF%B8%8F+%D9%87%D9%84%D9%86%D8%AF+%7C+%D9%88%D8%A7%D8%B1%D9%BE+%F0%9F%87%B3%F0%9F%87%B1
+vless://4f6157dd-171d-4df5-9b4d-586a7e548efe@8.8.8.8.vipinet.ggff.net:202?security=none&encryption=none&headerType=none&type=tcp#%E2%AD%90%EF%B8%8F+%D9%87%D9%84%D9%86%D8%AF+%D9%88+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%7C+%D9%88%D8%A7%D8%B1%D9%BE+%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C+%F0%9F%87%B3%F0%9F%87%B1%F0%9F%87%A9%F0%9F%87%AA
 
 vless://4be36df8-2b32-46c1-b581-489746021269@8.8.8.8.vipinet.ggff.net:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8+%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7+%7C+%D8%B9%D8%A7%D8%AF%DB%8C++%F0%9F%87%BA%F0%9F%87%B8
 
