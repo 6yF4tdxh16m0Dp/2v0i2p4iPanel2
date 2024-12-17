@@ -1,9 +1,8 @@
-vless://update@VipiNet.Plus.v2:14030925?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7+%D8%AF%D8%B1+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%DB%B1%DB%B4%DB%B0%DB%B3%2F%DB%B9%2F%DB%B2%DB%B5+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%B4%D8%AF+%E2%9C%85%EF%B8%8F
+vless://update@VipiNet.Plus.v2:14030928?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7+%D8%AF%D8%B1+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%DB%B1%DB%B4%DB%B0%DB%B3%2F%DB%B9%2F%DB%B2%DB%B8+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%B4%D8%AF+%E2%9C%85%EF%B8%8F
 
+vless://0e93a850-b0e9-4bd0-b5a3-3923a2b126f9@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dry-voice-eacc.vipi-vps2.workers.Dev&fp=randomized&type=ws&sni=dry-voice-eacc.vipi-vps2.workers.Dev#%F0%9F%87%A9%F0%9F%87%AA+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%F0%9F%87%A9%F0%9F%87%AA
 
-vless://81451a84-47e5-4d41-b35a-2025ab582bc9@188.114.97.3:2095?path=%2F%3Fed%3D2011&security=none&encryption=none&host=ir-germany.vipi-vps2.workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%7C+%D8%B9%D8%A7%D8%AF%DB%8C+%F0%9F%87%A9%F0%9F%87%AA
-
-vless://81451a84-47e5-4d41-b35a-2025ab582bc9@[2a06:98c1:3121::2]:2095?path=%2F%3Fed%3D2011&security=none&encryption=none&host=ir-germany.vipi-vps2.workers.Dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA+ipv6+%7C+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%F0%9F%87%A9%F0%9F%87%AA
+vless://0e93a850-b0e9-4bd0-b5a3-3923a2b126f9@[2a06:98c1:3121::2]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dry-voice-eacc.vipi-vps2.workers.Dev&fp=randomized&type=ws&sni=dry-voice-eacc.vipi-vps2.workers.dev#%F0%9F%87%A9%F0%9F%87%AA+ipv6+%7C+%D8%A2%D9%84%D9%85%D8%A7%D9%86+%F0%9F%87%A9%F0%9F%87%AA
 
 
 
