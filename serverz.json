@@ -9,3 +9,5 @@ vless://dedc0ed7-0a30-4064-ab58-7379f3dc3d7b@[2606:4700:3034::ac43:acaa]:2095?pa
 vless://All-fr@Fr.vipinet.publicvm.com:56276?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%7C%20%D8%B9%D8%A7%D8%AF%DB%8C%20%F0%9F%87%AB%F0%9F%87%B7
 
 vless://fb4337cb-ffa0-4665-9f72-ac1a5d242a2e@Speedtest.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vipi-vlesg1.vipi-vps2.workers.dev&fp=randomized&type=ws&sni=vipi-vlesg1.vipi-vps2.workers.dev#%F0%9F%94%B0%20%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3%20%F0%9F%94%B0
+
+vless://security@security.app.mmm:443?security=none&encryption=none&headerType=none&type=tcp#%E2%80%8C
