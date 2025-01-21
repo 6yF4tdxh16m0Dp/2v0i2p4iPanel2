@@ -11,3 +11,6 @@ vless://All-fr@Fr.vipinet.publicvm.com:56276?security=none&encryption=none&host=
 vless://fb4337cb-ffa0-4665-9f72-ac1a5d242a2e@Speedtest.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vipi-vlesg1.vipi-vps2.workers.dev&fp=randomized&type=ws&sni=vipi-vlesg1.vipi-vps2.workers.dev#%F0%9F%94%B0%20%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3%20%F0%9F%94%B0
 
 vless://security@security.app.mmm:443?security=none&encryption=none&headerType=none&type=tcp#%E2%80%8C
+
+
+vless://security@security.app.mmm:36582?security=none&encryption=none&headerType=none&type=tcp#s.
